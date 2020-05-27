@@ -75,7 +75,6 @@ a {
 -------------------*/
 header {
 	padding: 20px 0;
-	height: 100vh;
 	background: hsl(193, 100%, 96%) url(../img/bg-hero-desktop.svg) no-repeat top left;
 	background-size: cover
 }
