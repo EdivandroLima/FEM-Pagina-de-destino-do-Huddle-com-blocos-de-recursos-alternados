@@ -1,6 +1,7 @@
 # Página de destino do Huddle com blocos de recursos alternados
-Frontend Mentor Challenge https://www.frontendmentor.io/profile/EdivandroLima<br>
-Deploy: https://fem-pagina-de-destino-do-huddle.now.sh/
+Este é meu envio ao desafio do [Frotend Mentor](https://www.frontendmentor.io/profile/EdivandroLima).
+
+[Clique aqui](https://fem-pagina-de-destino-do-huddle.now.sh/) para ver como ficou.
 
 ## Ferramentas utilizadas
 - HTML
