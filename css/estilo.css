@@ -7,7 +7,7 @@ body {
 }
 * {
 	-webkit-box-sizing: border-box;
-	        box-sizing: border-box
+	box-sizing: border-box
 }
 .container { 
 	max-width: 1200px;
@@ -19,7 +19,7 @@ body {
 	display: -ms-flexbox;
 	display: flex;
 	-ms-flex-wrap: wrap;
-	    flex-wrap: wrap
+	flex-wrap: wrap
 }
 
 /* Botões
@@ -34,14 +34,14 @@ body {
 	font-family: 'Poppins', sans-serif;
 	font-weight: 600;
 	-webkit-box-shadow: 0 3px 1rem rgba(0,0,0, .2);
-	        box-shadow: 0 3px 1rem rgba(0,0,0, .2);
+	box-shadow: 0 3px 1rem rgba(0,0,0, .2);
 	-webkit-transition: all .2s;
 	-o-transition: all .2s;
 	transition: all .2s
 }
 .btn:hover {
 	-webkit-box-shadow: 0 0 .5rem rgba(0,0,0, .1);
-	        box-shadow: 0 0 .5rem rgba(0,0,0, .1)
+	box-shadow: 0 0 .5rem rgba(0,0,0, .1)
 }
 .btn-pink {
 	background: hsl(322, 100%, 66%);
@@ -80,11 +80,11 @@ header {
 }
 header .row {
 	-webkit-box-pack: justify;
-	    -ms-flex-pack: justify;
-	        justify-content: space-between;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center
+	-ms-flex-align: center;
+	align-items: center
 }
 .header-content {
 	padding: 60px 0
@@ -119,8 +119,8 @@ h1 {
 @media (max-width: 500px) {
 	nav .row {
 		-webkit-box-pack: center;
-		    -ms-flex-pack: center;
-		        justify-content: center
+		-ms-flex-pack: center;
+		justify-content: center
 	}
 	nav .btn {
 		display: none
@@ -136,13 +136,13 @@ h1 {
 	margin: 40px 0;
 	padding: 50px 100px;
 	-webkit-box-pack: justify;
-	    -ms-flex-pack: justify;
-	        justify-content: space-between;
+	-ms-flex-pack: justify;
+	justify-content: space-between;
 	-webkit-box-align: center;
-	    -ms-flex-align: center;
-	        align-items: center;
+	-ms-flex-align: center;
+	align-items: center;
 	-webkit-box-shadow: 0 0 1rem rgba(0,0,0, .1);
-	        box-shadow: 0 0 1rem rgba(0,0,0, .1);
+	box-shadow: 0 0 1rem rgba(0,0,0, .1);
 	border-radius: 15px
 }
 .apresentacao div {
@@ -166,15 +166,15 @@ h1 {
 	.apresentacao div {
 		margin: 40px 15px 15px 15px;
 		-webkit-box-ordinal-group: 3;
-		    -ms-flex-order: 2;
-		        order: 2;
+		-ms-flex-order: 2;
+		order: 2;
 		width: 100%
 	}
 	.apresentacao img {
 		width: 100%;
 		-webkit-box-ordinal-group: 2;
-		    -ms-flex-order: 1;
-		        order: 1
+		-ms-flex-order: 1;
+		order: 1
 	}
 }
 
@@ -190,7 +190,7 @@ h1 {
 	border-radius: 15px;
 	text-align: center;
 	-webkit-box-shadow: 0 0 1rem rgba(0,0,0, .1);
-	        box-shadow: 0 0 1rem rgba(0,0,0, .1);
+	box-shadow: 0 0 1rem rgba(0,0,0, .1);
 	z-index: 2;
 	position: relative
 }
@@ -273,8 +273,8 @@ footer a:hover {
 	footer .row {
 		-webkit-box-orient: vertical;
 		-webkit-box-direction: normal;
-		    -ms-flex-direction: column;
-		        flex-direction: column;
+		-ms-flex-direction: column;
+		flex-direction: column;
 	}
 	.col-4, .col-2 {
 		width: 100%
